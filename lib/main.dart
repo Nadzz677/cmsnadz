@@ -13,8 +13,8 @@ void main() {
         ),
         body: Center(
           child: Text(
-            'Muhammad Nadzha bin Mohamad Nasrul',
             style: TextStyle(fontSize: 50),
+            'Muhammad Nadzha bin Mohamad Nasrul',
           ),
         ),
       ),
